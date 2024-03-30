@@ -13,7 +13,7 @@ export default defineUserConfig({
 
     navbar: [
       '/', '/changelog.html', '/about.html',
-      { text: 'GitHub', link: 'https://github.com/AkarinLiu/navbar' }
+      { text: 'GitHub', link: 'https://github.com/AkarinLiu/navpages' }
   ],
   }),
 
