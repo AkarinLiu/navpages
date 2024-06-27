@@ -29,11 +29,6 @@ paginate = 5
   welcomeText = "阿卡林刘的导航站"
 
 [[params.searchEngines]]
-  name = "谷歌"
-  activated = true
-  url = "https://www.google.com/search"
-
-[[params.searchEngines]]
   name = "天工AI"
   activated = true
   url = "https://tiangong.cn/result/?q="
@@ -42,11 +37,5 @@ paginate = 5
   name = "微软必应"
   activated = true
   url = "https://www.bing.com/search"
-
-[[params.searchEngines]]
-  name = "百度"
-  activated = true
-  url = "https://baidu.com/s"
-  searchkey = "wd"
 
 [taxonomies]
