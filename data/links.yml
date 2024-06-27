@@ -55,10 +55,9 @@
     - title: 代码
       url: https://github.com/AkarinLiu/navpages
       icon: fab fa-github
-    - title: Bootstrap-BP-Startpage 主题
+    - title: 使用的主题
       url: https://github.com/spech66/bootstrap-bp-hugo-startpage
       icon: fab fa-github
-    - title: Bootstrap-BP-Startpage 主题文档
+    - title: 使用的主题文档
       url: https://github.com/spech66/bootstrap-bp-hugo-startpage/blob/master/README.md
       icon: fas fa-file-alt
-    - title: 主题文档
