@@ -16,6 +16,9 @@
     - title: 小红书
       url: https://www.xiaohongshu.com
       icon: fab fa-xiaohongshu
+    - title: 百度贴吧
+      url: https://tieba.baidu.com
+      icon: fab fa-baidu
 - group: 个人博客
   items:
     - title: 阿卡林刘
