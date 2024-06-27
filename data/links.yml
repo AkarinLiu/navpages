@@ -1,0 +1,49 @@
+---
+- group: 社交网络
+  items:
+    - title: 哔哩哔哩
+      url: https://www.bilibili.com
+      icon: fab fa-bilibili
+    - title: 微博
+      url: https://weibo.com
+      icon: fab fa-weibo
+    - title: 知乎
+      url: https://www.zhihu.com
+      icon: fab fa-zhihu
+    - title: 豆瓣
+      url: https://www.douban.com
+      icon: fab fa-douban
+    - title: 小红书
+      url: https://www.xiaohongshu.com
+      icon: fab fa-xiaohongshu
+- group: 个人博客
+  items:
+    - title: 阿卡林刘
+      url: https://www.akarinliu.com
+      icon: fas fa-blog
+    - title: SPech.de Blog
+      url: https://www.spech.de
+      icon: fas fa-blog
+    - title: 极客逻辑
+      url: https://www.geek-logic.com
+      icon: fas fa-blog
+    - title: 白眼（原EPCDIY）
+      url: https://epcdiy.org
+      icon: fas fa-blog
+- group: 工具
+  items:
+    - title: Confluence
+      url: https://www.atlassian.com/software/confluence
+      icon: fab fa-confluence
+    - title: D&D
+      url: https://dnd.wizards.com/
+      icon: fab fa-d-and-d
+    - title: GitHub
+      url: https://github.com/spech66/
+      icon: fab fa-github
+    - title: Medium
+      url: https://www.medium.com
+      icon: fab fa-medium
+    - title: Amazon
+      url: https://www.amazon.de
+      icon: fab fa-amazon

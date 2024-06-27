@@ -1,0 +1,30 @@
+name: website
+
+on: push
+  branches: [ main ]
+
+permissions: 
+  contents: write
+
+jobs:
+  publish:
+    runs-on: debian-latest
+    steps:
+      -
+        name: Checkout
+        uses: actions/checkout@v4
+      -
+        name: Install Hugo
+        run: apt install hugo -y
+      -
+        name: Build website
+        run: hugo .
+      -
+        name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: gh-pages
+          build_dir: public
+          fqdn: ${{ secrets.DOMAIN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
