@@ -16,7 +16,7 @@ jobs:
         run: sudo apt install hugo -y
       -
         name: Build website
-        run: hugo .
+        run: hugo
       -
         name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
