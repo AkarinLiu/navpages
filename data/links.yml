@@ -65,3 +65,6 @@
     - title: 使用的主题文档
       url: https://github.com/spech66/bootstrap-bp-hugo-startpage/blob/master/README.md
       icon: fas fa-file-alt
+    - title: Icons8
+      url: https://icons8.com
+      icon: fab fa-icons8
