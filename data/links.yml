@@ -19,11 +19,14 @@
     - title: 百度贴吧
       url: https://tieba.baidu.com
       icon: fab fa-baidu
-- group: 个人博客
+- group: 个人网站
   items:
     - title: 阿卡林刘
       url: https://www.akarinliu.com
       icon: fas fa-blog
+    - title: FKUN 
+      url: https://fkun.tech
+      icon: fas fa-comments
     - title: SPech.de Blog
       url: https://www.spech.de
       icon: fas fa-blog
